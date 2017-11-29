@@ -1,0 +1,93 @@
+body {
+	background-color: black;
+	text-align: center;
+}
+
+.home {
+	color: red;
+}
+
+
+nav {
+	text-align: center;
+	color: white;
+}
+
+nav a {
+	text-decoration: none;
+	color: white;
+}
+
+p{
+	color: white;
+}
+
+p.box {
+	color: black;
+}
+
+div {
+	color: white;
+}
+
+header {
+	font-size: 40px;
+}
+button {
+	height: 50px;
+	width: 150px;
+	background-color: red;
+	color: white;
+}
+
+em {
+	color: red;
+}
+
+h3 {
+	color: black;
+}
+
+img {
+	height: 24px;
+	width: 24px;
+	display: inline-block;
+}
+
+li {
+	display: inline-block;
+	text-decoration: none;
+}
+
+div.box {
+	display: inline-block;
+	width: 30%;
+	background-color: white;
+	color: black;
+}
+
+.box img {
+	display: block;
+	margin: 0 auto;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+}
+
+.grey {
+	color: grey;
+}
+
+p a {
+	color: tomato;
+}
+
+.image {
+	height: 100px;
+	width: 100px;
+	display: block;
+}
+
+
